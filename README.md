@@ -3,9 +3,9 @@
 
   
 <a> 👋 &nbsp;Hello! I'm Yukkkiii </a>
-<a>### &nbsp;About Me </a>
+<a>&nbsp;About Me </a>
 
-- 🏠 BANDUNG.
+- 🏠FROM BANDUNG.
 >
 >
 >
