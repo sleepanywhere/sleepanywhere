@@ -3,13 +3,13 @@
 
   
 <a> 👋 &nbsp;Hello! I'm Yukkkiii </a>
-<a>&nbsp;About Me </a>
-
-- 🏠FROM BANDUNG.
 >
 >
 >
 </div>
+<a> &nbsp;About Me </a>
+
+- 🏠 BANDUNG.
 ### &nbsp;Languages & Tools:
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)
